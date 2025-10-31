@@ -44,7 +44,7 @@ And some subprocess warnings are not handled.
 Currently CLIPper does include input normalization. The input normalization pipeline is in another repository: [Merge Peaks](https://github.com/YeoLab/merge_peaks)
 
 ## Questions and suggestions
-please open an issue in the repo. or email Charlene `hsher@ucsd.edu`
+please open an issue in the repo.
 
 ## Reference
 Yeo GW, Coufal NG, Liang TY, Peng GE, Fu XD, Gage FH. An RNA code for the FOX2 splicing regulator revealed by mapping RNA-protein interactions in stem cells. Nat Struct Mol Biol. 2009;16(2):130-137. doi:10.1038/nsmb.1545
